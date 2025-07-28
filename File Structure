@@ -1,0 +1,11 @@
+erc20-token/
+├── contracts/
+│   └── MyToken.sol
+├── scripts/
+│   └── deploy.js
+├── test/
+│   └── token.test.js
+├── hardhat.config.js
+├── package.json
+├── .env
+└── README.md
